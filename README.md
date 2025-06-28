@@ -50,7 +50,7 @@ src/
 │ │ ├── login.html
 │ │ ├── index.html
 │ │ └── cadastro.html
-│ └── application.properties
+ └── application.properties
 
 
 ---
